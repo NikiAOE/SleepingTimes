@@ -20,14 +20,43 @@ Because either:
 </html>
 
 ## The Chart of Sleeping Times I was Talking About
-| Date   📆  |   Time  🕐 |
-| ------      | -------- |
-| Fri. 9/22   |  1:30 am  |
-| Sat. 9/23  | 12:30 am   |
-| Sun. 9/24  | 12:00 am  |
-| Mon. 9/25  | 11:45 pm  |
-| Tues. 9/26| 11:30 pm  |
-| Wed. 9/27 |  11:30 pm |
+
+<html>
+  <table>
+  <tr>
+    <th> Date 📆 </th>
+    <th> Time 🕐</th>
+  </tr>
+  <tr>
+    <td>Fri. 9/22</td>
+    <td>1:30 am</td>
+  </tr>
+  <tr>
+    <td>Sat. 9/23</td>
+    <td>12:30 am</td>
+  </tr>
+  <tr>
+    <td>Sun. 9/24</td>
+    <td>12:00 am</td>
+  </tr>
+  <tr>
+    <td>Mon. 9/25</td>
+    <td>11:45 pm</td>
+  </tr>
+  <tr>
+    <td>Tues. 9/26</td>
+    <td>11:30 pm</td>
+  </tr>
+  <tr>
+    <td>Wed. 9/27</td>
+    <td>11:45 pm</td>
+  </tr>
+  <tr>
+    <td>Sat. 9/23</td>
+    <td>12:30 am</td>
+  </tr>
+</table>
+</html>
 
 # Then, why do people sleep so late even if they have the power to change it?
 **The term for it- Revenge Bedtime Procrastination**
